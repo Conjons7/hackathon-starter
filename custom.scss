@@ -1,0 +1,33 @@
+.red {
+    color: red;
+}
+
+#map { 
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+}
+
+html,
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+
+}
+
+.welcome {
+    text-align: center;
+    font-size: 80px;
+    // color: white;
+    
+    
+}
+
+body {
+    background: #136a8a; 
+    background: -webkit-linear-gradient(to left, #b3e6eb, #6281c9);
+    background: linear-gradient(to left, #b3e6eb, #6281c9);
+  }
+
+
